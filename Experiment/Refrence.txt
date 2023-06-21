@@ -1,0 +1,6 @@
+Bertopic: https://medium.com/python-in-plain-english/topic-modeling-for-beginners-using-bertopic-and-python-aaf1b421afeb
+LDA: https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/?utm_content=cmp-true
+     https://medium.com/analytics-vidhya/topic-modeling-using-gensim-lda-in-python-48eaa2344920
+     
+NMF: https://towardsdatascience.com/topic-modeling-articles-with-nmf-8c6b2a227a45  
+https://github.com/fastai/numerical-linear-algebra/blob/master/nbs/2.%20Topic%20Modeling%20with%20NMF%20and%20SVD.ipynb
